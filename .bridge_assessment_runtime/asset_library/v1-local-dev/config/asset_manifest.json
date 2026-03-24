@@ -1,4 +1,0 @@
-﻿{
-  "model_version": "v1-local-dev",
-  "notes": "当前已导入5个基模型权重和scaler_y；scaler_X与桥轨映射模型已补齐。"
-}

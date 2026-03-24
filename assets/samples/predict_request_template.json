@@ -1,0 +1,18 @@
+﻿{
+  "scenario_id": "demo-scenario-001",
+  "input_mode": "engineered_features",
+  "feature_records": [
+    {
+      "position": 0.0,
+      "features": {
+        "vertical_irregularity": -0.52,
+        "gauge_irregularity": -1.25,
+        "horizontal_irregularity": 1.91,
+        "track_deformation": -0.24,
+        "velocity": 100.0,
+        "weight": 31600.0,
+        "train_type": 1.0
+      }
+    }
+  ]
+}

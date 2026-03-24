@@ -1,0 +1,19 @@
+﻿{
+  "feature_columns": [
+    "vertical_irregularity",
+    "gauge_irregularity",
+    "horizontal_irregularity",
+    "track_deformation",
+    "velocity",
+    "weight",
+    "train_type"
+  ],
+  "train_feature_names": ["velocity", "weight", "train_type"],
+  "mapping_feature_name": "track_deformation",
+  "bridge_feature_defaults": {
+    "vertical_irregularity": 0.0,
+    "gauge_irregularity": 0.0,
+    "horizontal_irregularity": 0.0,
+    "track_deformation": 0.0
+  }
+}
